@@ -1,4 +1,10 @@
 .about-me-img
 {
-  height: 250px;
+  max-width: 40%;
+  height: auto;
+}
+
+.row
+{
+  padding-top: 1%;
 }
