@@ -1,12 +1,14 @@
-.btn.tooltipped.center-align.vertical-align
-{
-  z-index: 13;
-}
+
 
 .contact-pic
 {
-  max-width: 15%;
+  max-width: 25%;
   height: auto;
   border: 2px solid white;
   border-radius: 100%;
+}
+
+.email-styling
+{
+  color: white;
 }
